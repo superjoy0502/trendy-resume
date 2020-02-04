@@ -1,5 +1,24 @@
 [
   {
+    "image": "static/products/s-zip.jpg",
+    "title": "파이썬으로 압축을 하는 szip",
+    "parts": [
+      "CONSOLE",
+      "PYTHON"
+    ],
+    "category": "콘솔 애플리케이션",
+    "place": "개인 프로젝트",
+    "date": "~ 2017.10.03",
+    "desc": "압축 프로그램과 알고리즘에 관심이 생겨 파이썬 압축 라이브러리를 이용해 만든 압축 프로그램입니다. 별로 실용성은 없습니다.",
+    "links": [
+      {
+        "icon": "fab fa-github",
+        "text": "프로젝트 코드 보기",
+        "href": "https://github.com/superjoy0502/Python/tree/master/szip"
+      }
+    ]
+  },
+  {
     "image": "static/products/luck-game.jpg",
     "title": "실력을 쌓는 <복불복 게임>",
     "parts": [
