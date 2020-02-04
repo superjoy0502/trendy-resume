@@ -3,7 +3,7 @@
     "name": "Python",
     "image": "python.png",
     "skill": 70,
-    "color": "#52C1DE",
+    "color": "#0042e8",
     "desc": "아이디어가 떠오르면 바로 구현해 낼 수 있습니다. Hooks를 사용해서 깔끔한 코드를 (보통 타입스크립트로) 작성합니다."
   },
   {
@@ -24,19 +24,19 @@
     "name": "JavaScript",
     "image": "js.png",
     "skill": 20,
-    "color": "#f7d600",
+    "color": "#ffff00",
     "desc": "앵귤러의 구조를 지니고, 타입스크립트를 지원한다는 점이 마음에 들어서 공부하고 있습니다."
   },
   {
     "name": "Kotlin",
     "image": "kotlin.jpeg",
     "skill": 75,
-    "color": "#a340ff",
+    "color": "#7429ff",
     "desc": "MongoDB나 Firebase를 사용하는 API 서버를 제작할 수 있습니다."
   },
   {
     "name": "React",
-    "image": "react.svg",
+    "image": "react.png",
     "skill": 10,
     "color": "#52C1DE",
     "desc": "빠르고 자유롭게 사용할 수 있습니다. 최근에는 AsyncIO를 사용하면서도 Flask와 유사한 문법을 사용하는 Sanic을 사용합니다."
