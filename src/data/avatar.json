@@ -1,0 +1,49 @@
+[
+  {
+    "image": "coffee.png"
+  },
+  {
+    "image": "default.png"
+  },
+  {
+    "image": "gaze.png"
+  },
+  {
+    "image": "grin.gif"
+  },
+  {
+    "image": "heart.gif"
+  },
+  {
+    "image": "hello.png"
+  },
+  {
+    "image": "lend.png",
+    "contain": true
+  },
+  {
+    "image": "poze.png",
+    "contain": true
+  },
+  {
+    "image": "selfie.gif"
+  },
+  {
+    "image": "sit.png",
+    "contain": true
+  },
+  {
+    "image": "sleep.gif"
+  },
+  {
+    "image": "smile.gif"
+  },
+  {
+    "image": "think.png",
+    "contain": true
+  },
+  {
+    "image": "walk.png",
+    "contain": true
+  }
+]
