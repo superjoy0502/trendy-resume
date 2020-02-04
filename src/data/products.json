@@ -3,6 +3,7 @@
     "image": "static/products/luck-game.jpg",
     "title": "실력을 쌓는 <복불복 게임>",
     "parts": [
+      "CONSOLE",
       "PYTHON"
     ],
     "category": "콘솔 애플리케이션",
