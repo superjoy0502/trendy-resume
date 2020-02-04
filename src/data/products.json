@@ -37,17 +37,6 @@
     ]
   },
   {
-    "image": "static/products/2017-IT.jpg",
-    "title": "2017학년도 성동광진교육청 융합정보영재원",
-    "parts": [
-      "EDUCATION"
-    ],
-    "category": "수료",
-    "place": "2017학년도 성동광진교육청 융합정보영재원",
-    "date": "2017.03.31 ~ 2017.09.22",
-    "desc": "2017학년도 처음이자 마지막으로 경험한 영재원입니다. 당시에 정말 즐거운 시간을 보냈습니다."
-  },
-  {
     "image": "static/products/rolling-cube.jpg",
     "title": "유니티 개발의 첫걸음: 롤링 큐브",
     "parts": [
@@ -69,6 +58,17 @@
         "href": "https://github.com/superjoy0502/ROLLING-CUBE"
       }
     ]
+  },
+  {
+    "image": "static/products/2017-IT.jpg",
+    "title": "2017학년도 성동광진교육청 융합정보영재원",
+    "parts": [
+      "EDUCATION"
+    ],
+    "category": "수료",
+    "place": "2017학년도 성동광진교육청 융합정보영재원",
+    "date": "2017.03.31 ~ 2017.09.22",
+    "desc": "2017학년도 처음이자 마지막으로 경험한 영재원입니다. 당시에 정말 즐거운 시간을 보냈습니다."
   },
   {
     "image": "static/products/project-work.jpg",
