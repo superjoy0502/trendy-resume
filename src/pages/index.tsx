@@ -21,7 +21,7 @@ export const Home: React.FC = () => (
     />
     <StackSection
       id="stacks"
-      title="🍰 스택 맛보기"
+      title="🍰 개발 도구 맛보기"
       stacks={stacks}
     />
     <ProductSection
