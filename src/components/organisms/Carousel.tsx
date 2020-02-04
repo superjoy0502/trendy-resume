@@ -24,14 +24,14 @@ export const Carousel: React.FC = () => {
     <CarouselContainer>
       <Content>
         <Title>
-          Frontend is<br />
-          INEVITABLE™
+          There is still knowledge<br />
+          that you don't KNOW
         </Title>
         <Desc>
-          불가능한 프론트엔드는 없다고 믿습니다.
+          아직 제가 모르는 지식이 많습니다.
         </Desc>
         <Desc>
-          그렇기 때문에 오늘도 성장하기 위한 노력을 하고 있죠.
+          그렇기에, 저는 성장합니다.
         </Desc>
         <Profile
           src={`static/avatar/${profile}`}

@@ -14,8 +14,8 @@ export default class CustomApp extends App<AppProps> {
     return (
       <>
         <Head>
-          <title>Résumé: Junhoyeo</title>
-          <meta name="description" content="Frontend developer Junhoyeo's Résumé" />
+          <title>Portfolio: Kim DongWoo</title>
+          <meta name="description" content="Developer Kim DongWoo" />
         </Head>
         <Component {...pageProps} />
       </>

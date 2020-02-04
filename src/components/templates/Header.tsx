@@ -20,7 +20,7 @@ export const Header: React.FC<HeaderProps> = ({ social }) => {
       <HeaderSection>
         <Brand>
           <Title>Résumé</Title>
-          <Author>@junhoyeo</Author>
+          <Author>@dongwookim</Author>
         </Brand>
         <IconList>
           {social.map(({ icon, href }, idx) => (
