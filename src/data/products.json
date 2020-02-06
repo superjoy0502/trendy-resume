@@ -1,5 +1,24 @@
 [
   {
+    "image": "static/products/apperz.png",
+    "title": "대한민국 청소년 개발팀 APPERZ 소속",
+    "parts": [
+      "APPERZ",
+      "TEAM"
+    ],
+    "category": "APPERZ 애퍼즈",
+    "place": "APPERZ",
+    "date": "2019.02.18",
+    "desc": "대한민국의 청소년 개발팀 APPERZ에 들어가게 되었습니다. 여기서 저는 게임 개발자로서, <짼다나는야자: YAJA>와 <Artz 시리즈>를 개발하고 있습니다.",
+    "links": [
+      {
+        "icon": "fab fa-globe",
+        "text": "홈페이지 가보기",
+        "href": "https://www.apperz.co.kr/"
+      }
+    ]
+  },
+  {
     "image": "static/products/s-zip.jpg",
     "title": "파이썬으로 압축을 하는 szip",
     "parts": [
