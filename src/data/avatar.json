@@ -1,22 +1,22 @@
 [
   {
     "image": "comic-shot.jpg",
-    "contain": true
+
   },
   {
     "image": "cool-shot.jpg",
-    "contain": true
+
   },
   {
     "image": "emotional-shot.jpg",
-    "contain": true
+
   },
   {
     "image": "trendy-shot.jpg",
-    "contain": true
+
   },
   {
     "image": "turnaround-shot.jpg",
-    "contain": true
+
   }
 ]
