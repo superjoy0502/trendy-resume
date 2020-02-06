@@ -25,7 +25,7 @@ export const Carousel: React.FC = () => {
       <Content>
         <Title>
           There is still knowledge<br />
-          that you don't KNOW
+          that I don't KNOW
         </Title>
         <Desc>
           아직 제가 모르는 지식이 많습니다.
