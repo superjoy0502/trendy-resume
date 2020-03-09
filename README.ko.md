@@ -19,6 +19,7 @@
 여러분의 것도 추가해 주세요! 🥰
 
 - [trendy-resume.now.sh](https://trendy-resume.now.sh)
+- [kdw.now.sh](https://kdw.now.sh)
 
 ## 🏗 직접 만들어 보세요!
 
