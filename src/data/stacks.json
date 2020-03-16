@@ -21,24 +21,17 @@
     "desc": "처음으로 접한 마크다운 언어입니다. 급하게 문서를 만들 때 사용합니다. 아래의 JS랑 React을 공부하기 전에 공부했습니다."
   },
   {
-    "name": "JavaScript",
-    "image": "js.png",
-    "skill": 20,
+    "name": "Java",
+    "image": "java.jpeg",
+    "skill": 55,
     "color": "#e6e600",
-    "desc": "다들 Python과 함께 초보자한테 추천하는 언어이지만, 단 한번도 써보지 않았습니다. 하지만 웹 애플리케이션에 관심이 생겨 공부하고 있습니다."
+    "desc": "Kotlin을 공부하기 위해 기초학습 중인 언어입니다. CANADA COVID-19 App을 만들 때 사용했습니다."
   },
   {
     "name": "Kotlin",
     "image": "kotlin.jpeg",
-    "skill": 75,
+    "skill": 25,
     "color": "#7429ff",
     "desc": "지인의 추천으로 알게된 언어입니다. 제가 많이 사용하는 회사 JetBrains에서 만들고, 저는 Minecraft 플러그인과 Android 앱을 만들 때 사용합니다."
-  },
-  {
-    "name": "React",
-    "image": "react.png",
-    "skill": 10,
-    "color": "#52C1DE",
-    "desc": "프론트엔드에 관심이 생겨 가장 먼저 알아본 스택입니다. 다양한 웹 애플리케이션을 만들고 싶어 JS와 함께 공부하고 있습니다."
   }
 ]

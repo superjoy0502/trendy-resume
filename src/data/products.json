@@ -1,5 +1,16 @@
 [
   {
+    "image": "static/products/Canada_COVID19.png",
+    "title": "거대한 세계관에 기반한 Artz 시리즈",
+    "parts": [
+      "APP"
+    ],
+    "category": "개인 프로젝트",
+    "place": "APPERZ",
+    "date": "2020.02.29 ~ 2020.03.12",
+    "desc": "COVID-19 사태 중 캐나다에 살면서 편리하게 확진자 수를 볼 수 있는 앱을 개발했습니다."
+  },
+  {
     "image": "static/products/artz.png",
     "title": "거대한 세계관에 기반한 Artz 시리즈",
     "parts": [
