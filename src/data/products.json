@@ -171,29 +171,5 @@
         "href": "https://github.com/superjoy0502/Python/tree/master/Project%20Work"
       }
     ]
-  },
-  {
-    "image": "static/products/biss.png",
-    "title": "블록체인으로 만드는 안전한 IoT, BISS",
-    "parts": [
-      "BACKEND",
-      "BLOCKCHAIN"
-    ],
-    "category": "블록체인 솔루션",
-    "place": "2018 제주 블록체인 해커톤 - 우수상(2위)",
-    "date": "2018.10.26 ~ 2018.10.28",
-    "desc": "IoT 디바이스의 펌웨어를 업데이트하거나 데이터를 송신할 때 블록체인을 이용해서 무결성을 검증하는 솔루션입니다. Flask(이후 Sanic으로 변경)로 백엔드 API 서버를 개발하고, Solidity로 Klaytn 스마트 컨트랙트를 작성했습니다.",
-    "links": [
-      {
-        "icon": "fab fa-github",
-        "text": "백엔드 코드 보기",
-        "href": "https://github.com/LAB-C/BISS-FirmwareServer"
-      },
-      {
-        "icon": "fab fa-github",
-        "text": "컨트랙트 코드 보기",
-        "href": "https://github.com/LAB-C/BISS-Blockchain-Klaytn"
-      }
-    ]
   }
 ]
