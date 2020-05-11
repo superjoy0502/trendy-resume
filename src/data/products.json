@@ -1,12 +1,31 @@
 [
   {
+    "image": "static/products/kumfb.png",
+    "title": "KUMFB",
+    "parts": [
+      "DISCORD",
+      "BOT"
+    ],
+    "category": "포럼 프로젝트",
+    "place": "Korena Unofficial Minecraft Forum",
+    "date": "2020.04 ~ 진행중",
+    "desc": "한국 비공식 마인크래프트 포럼 전용 봇: 컴프 입니다.",
+    "links": [
+      {
+        "icon": "fab fa-github",
+        "text": "프로젝트 코드 보기",
+        "href": "https://github.com/superjoy0502/KUMFB"
+      }
+    ]
+  },
+  {
     "image": "static/products/Canada_COVID19.png",
     "title": "Canada COVID-19 App",
     "parts": [
       "APP"
     ],
     "category": "개인 프로젝트",
-    "place": "APPERZ",
+    "place": "개인 프로젝트",
     "date": "2020.02.29 ~ 2020.03.12",
     "desc": "COVID-19 사태 중 캐나다에 살면서 편리하게 확진자 수를 볼 수 있는 앱을 개발했습니다.",
     "links": [
@@ -54,7 +73,7 @@
     ],
     "category": "APPERZ 애퍼즈",
     "place": "APPERZ",
-    "date": "2019.02.18 ~ 현재",
+    "date": "2019.02.18 ~ 진행중",
     "desc": "대한민국의 청소년 개발팀 APPERZ에 들어가게 되었습니다. 여기서 저는 게임 개발자로서, <짼다나는야자: YAJA>와 <Artz 시리즈>를 개발하고 있습니다.",
     "links": [
       {
@@ -65,86 +84,7 @@
     ]
   },
   {
-    "image": "static/products/s-zip.jpg",
-    "title": "파이썬으로 압축을 하는 szip",
-    "parts": [
-      "CONSOLE",
-      "PYTHON"
-    ],
-    "category": "콘솔 애플리케이션",
-    "place": "개인 프로젝트",
-    "date": "~ 2017.10.03",
-    "desc": "압축 프로그램과 알고리즘에 관심이 생겨 파이썬 압축 라이브러리를 이용해 만든 압축 프로그램입니다. 별로 실용성은 없습니다.",
-    "links": [
-      {
-        "icon": "fab fa-github",
-        "text": "프로젝트 코드 보기",
-        "href": "https://github.com/superjoy0502/Python/tree/master/szip"
-      }
-    ]
-  },
-  {
-    "image": "static/products/luck-game.jpg",
-    "title": "실력을 쌓는 <복불복 게임>",
-    "parts": [
-      "CONSOLE",
-      "PYTHON"
-    ],
-    "category": "콘솔 애플리케이션",
-    "place": "개인 프로젝트",
-    "date": "~ 2017.09.25",
-    "desc": "파이썬 실력을 키우기 위해 만들어본 하나의 기초 프로젝트입니다. 당첨 프로그램입니다.",
-    "links": [
-      {
-        "icon": "fab fa-github",
-        "text": "프로젝트 코드 보기",
-        "href": "https://github.com/superjoy0502/Python/tree/master/LuckGame"
-      }
-    ]
-  },
-  {
-    "image": "static/products/makey-makey.jpg",
-    "title": "MAKEYMAKEY로 만든 <롤링 큐브> 조종기",
-    "parts": [
-      "MAKEYMAKEY"
-    ],
-    "category": "실습 애플리케이션",
-    "place": "2017학년도 성동광진교육청 융합정보영재원",
-    "date": "~ 2017.09.22",
-    "desc": "2017학년도 성동광진교육청 융합정보영재에서 체험한 것 중 하나인 MAKEYMAKEY입니다. 이 스크립트를 이용해 MAKEYMAKEY를 연결하면 아래의 <롤링 큐브>외 많은 게임을 조종할 수 있습니다.",
-    "links": [
-      {
-        "icon": "fab fa-github",
-        "text": "프로젝트 코드 보기",
-        "href": "https://github.com/superjoy0502/Python/tree/master/MAKEYMAKEY"
-      }
-    ]
-  },
-  {
-    "image": "static/products/rolling-cube.jpg",
-    "title": "유니티 개발의 첫걸음: 롤링 큐브",
-    "parts": [
-      "UNITY"
-    ],
-    "category": "게임",
-    "place": "개인 프로젝트",
-    "date": "~ 2017.09.10",
-    "desc": "2017년, 유니티를 공부할 때 만든 간단한 3D 게임입니다. 큐브를 조종해 장매물을 피하는 간단한 레벨들로 구성되어 있습니다.",
-    "links": [
-      {
-        "icon": "fa fa-globe",
-        "text": "플레이하기",
-        "href": "https://superjoy.itch.io/rolling-cube"
-      },
-      {
-        "icon": "fab fa-github",
-        "text": "프로젝트 코드 보기",
-        "href": "https://github.com/superjoy0502/ROLLING-CUBE"
-      }
-    ]
-  },
-  {
-    "image": "static/products/2017-IT.jpg",
+    "image": "static/products/seongdonggwangjin.png",
     "title": "2017학년도 성동광진교육청 융합정보영재원",
     "parts": [
       "EDUCATION"
@@ -153,23 +93,5 @@
     "place": "2017학년도 성동광진교육청 융합정보영재원",
     "date": "2017.03.31 ~ 2017.09.22",
     "desc": "2017학년도 처음이자 마지막으로 경험한 영재원입니다. 당시에 정말 즐거운 시간을 보냈습니다."
-  },
-  {
-    "image": "static/products/project-work.jpg",
-    "title": "첫 파이썬 프로그램: Project Work",
-    "parts": [
-      "PYTHON"
-    ],
-    "category": "유틸리티",
-    "place": "개인 프로젝트",
-    "date": "2016",
-    "desc": "Project Work(전 봉사황동기록프로그램)은 2016년, 파이썬을 공부하고 반을 위애 만든 봉사활동 기록 프로그램입니다. 단순한 파일을 이용해 쉽게 누적 기록을 할 수 있습니다.",
-    "links": [
-      {
-        "icon": "fab fa-github",
-        "text": "프로젝트 코드 보기",
-        "href": "https://github.com/superjoy0502/Python/tree/master/Project%20Work"
-      }
-    ]
   }
 ]
