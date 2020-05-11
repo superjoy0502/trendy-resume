@@ -63,7 +63,14 @@
     "category": "APPERZ 프로젝트",
     "place": "APPERZ",
     "date": "2019.02.18 ~ 진행중",
-    "desc": "전국 최초 야자 쨰는 게임! 선생님의 눈을 피해 도망쳐라!"
+    "desc": "전국 최초 야자 쨰는 게임! 선생님의 눈을 피해 도망쳐라!",
+    "links": [
+      {
+      "icon": "fab fa-globe",
+      "text": "홈페이지 가보기",
+      "href": "https://www.apperz.co.kr/"
+      }
+    ]
   },
   {
     "image": "static/products/apperz.png",
@@ -84,7 +91,7 @@
     ]
   },
   {
-    "image": "static/products/seongdonggwangjin.png",
+    "image": "static/products/seongdonggwanjin.jpg",
     "title": "2017학년도 성동광진교육청 융합정보영재원",
     "parts": [
       "EDUCATION"
