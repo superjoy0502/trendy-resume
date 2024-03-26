@@ -7,10 +7,10 @@ import NavItem from '../molecules/NavItem';
 import { INavigation } from '../../utils/types';
 
 const navigations: INavigation[] = [
-  { name: '홈', href: '#' },
-  { name: '개발 스택', href: '#stacks' },
-  { name: '최근 프로젝트', href: '#recent' },
-  { name: '블로그 살펴보기', href: '#blog' },
+  { name: 'Home', href: '#' },
+  { name: 'My Skills', href: '#stacks' },
+  { name: 'My Projects', href: '#recent' },
+  { name: 'Blog', href: '#blog' },
 ];
 
 export const Navbar: React.FC = () => {
