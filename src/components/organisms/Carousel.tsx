@@ -24,14 +24,14 @@ export const Carousel: React.FC = () => {
     <CarouselContainer>
       <Content>
         <Title>
-          There is still knowledge<br />
-          that I don't KNOW
+          First year undergraduate<br />
+          @ U of T
         </Title>
         <Desc>
-          아직 제가 모르는 지식이 많습니다.
+          Interested in Cognitive Science
         </Desc>
         <Desc>
-          그렇기에, 저는 성장합니다.
+          and Computer Science.
         </Desc>
         <Profile
           src={`static/avatar/${profile}`}

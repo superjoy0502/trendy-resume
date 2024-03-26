@@ -1,24 +1,38 @@
 [
   {
-    "name": "Python",
-    "image": "python.png",
+    "name": "HTML 5 & CSS 3",
+    "image": "html5.png",
     "skill": 70,
-    "color": "#0042e8",
-    "desc": "만들어보고 싶은 알고리즘 이 있으면 가장 먼저 찾게 되는 언어입니다. 가장 처음으로 접한 프로그래밍 언어입니다. 깔끔한 문법이 좋습니다."
+    "color": "#ff8000",
+    "desc": "My first contact with development. I have them using it for a long time and I am very comfortable with it."
   },
   {
     "name": "Unity",
     "image": "unity.png",
-    "skill": 85,
+    "skill": 95,
     "color": "#000000",
-    "desc": "제가 처음으로 접한 게임 엔진으로, 현재 진행하는 대부분의 프로젝트를 유니티로 만듭니다. 만들고 싶은 게임이 있으면 유니티를 사용해 만듭니다. 다양한 기능과 개발자에게 친근한 인터페이스가 좋습니다."
+    "desc": "My first game engine. I use Unity for projects I am currently working on that are video game related."
   },
   {
-    "name": "HTML 5 & CSS 3",
-    "image": "html5.png",
-    "skill": 45,
-    "color": "#ff8000",
-    "desc": "처음으로 접한 마크다운 언어입니다. 급하게 문서를 만들 때 사용합니다. 아래의 JS랑 React을 공부하기 전에 공부했습니다."
+    "name": "Adobe After Effects",
+    "image": "ae.png",
+    "skill": 90,
+    "color": "#9a9aff",
+    "desc": "My first video editing software. I use After Effects for all my video editing needs that require motion graphics."
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "image": "pp.png",
+    "skill": 60,
+    "color": "#eb78ff",
+    "desc": "Learned after After Effects. I use Premiere Pro for all my video editing needs to be done quick."
+  },
+  {
+    "name": "Python",
+    "image": "python.png",
+    "skill": 75,
+    "color": "#0042e8",
+    "desc": "Started learning while I was in elementary school; but, I started using it for projects in high school."
   },
   {
     "name": "Java",
