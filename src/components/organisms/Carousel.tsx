@@ -28,10 +28,7 @@ export const Carousel: React.FC = () => {
           @ U of T
         </Title>
         <Desc>
-          Interested in Cognitive Science
-        </Desc>
-        <Desc>
-          and Computer Science.
+          Interested in Cognitive Science and Computer Science.
         </Desc>
         <Profile
           src={`static/avatar/${profile}`}
