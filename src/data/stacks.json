@@ -35,17 +35,17 @@
     "desc": "Started learning while I was in elementary school; but, I started using it for projects in high school."
   },
   {
+    "name": "Kotlin",
+    "image": "kotlin.jpeg",
+    "skill": 75,
+    "color": "#7429ff",
+    "desc": "One of my favourites. I use Kotlin for all my Android app and Minecraft plugin development."
+  },
+  {
     "name": "Java",
     "image": "java.jpeg",
     "skill": 75,
     "color": "#e6e600",
     "desc": "One of the languages I use the most. I use Java for all my Minecraft plugin needs and for Android app development."
-  },
-  {
-    "name": "Kotlin",
-    "image": "kotlin.jpeg",
-    "skill": 25,
-    "color": "#7429ff",
-    "desc": "지인의 추천으로 알게된 언어입니다. 제가 많이 사용하는 회사 JetBrains에서 만들고, 저는 Minecraft 플러그인과 Android 앱을 만들 때 사용합니다."
   }
 ]
