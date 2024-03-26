@@ -30,16 +30,16 @@
   {
     "name": "Python",
     "image": "python.png",
-    "skill": 75,
+    "skill": 65,
     "color": "#0042e8",
     "desc": "Started learning while I was in elementary school; but, I started using it for projects in high school."
   },
   {
     "name": "Java",
     "image": "java.jpeg",
-    "skill": 55,
+    "skill": 75,
     "color": "#e6e600",
-    "desc": "Kotlin을 공부하기 위해 기초학습 중인 언어입니다. CANADA COVID-19 App을 만들 때 사용했습니다."
+    "desc": "One of the languages I use the most. I use Java for all my Minecraft plugin needs and for Android app development."
   },
   {
     "name": "Kotlin",
